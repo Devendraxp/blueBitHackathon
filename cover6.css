@@ -435,3 +435,7 @@
     gap: var(--gap-275xl);
   }
 }
+a{
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,1202 @@
+.tablerdots-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+
+.main-frame-child {
+  width: 378px;
+  height: 1117px;
+  position: relative;
+  background-color: var(--color-azure);
+  display: none;
+  max-width: 100%;
+}
+.screenshot-2024-02-17-190937-r-icon {
+  width: 100px;
+  height: 95px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.home,
+.icon-home {
+  position: relative;
+  z-index: 1;
+}
+.icon-home {
+  height: 46.5px;
+  width: 38.4px;
+}
+.home {
+  font-weight: 600;
+}
+.message-frame,
+.notification-frame {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.message-frame {
+  align-items: center;
+  gap: 30px;
+}
+.notification-frame {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 2px;
+}
+.explore,
+.icon-search {
+  position: relative;
+  z-index: 1;
+}
+.icon-search {
+  height: 28.4px;
+  width: 23.4px;
+}
+.explore {
+  font-weight: 600;
+}
+.about-us-frame,
+.more-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.more-frame {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.about-us-frame {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 var(--padding-19xl) 0 var(--padding-4xs);
+}
+.icon-bell,
+.notification {
+  position: relative;
+  z-index: 1;
+}
+.icon-bell {
+  height: 34.9px;
+  width: 25.2px;
+}
+.notification {
+  font-weight: 600;
+  flex-shrink: 0;
+}
+.line-separater {
+  width: 171px;
+  height: 43px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+  color: var(--color-gray-300);
+}
+.icon-envelope,
+.message {
+  position: relative;
+  z-index: 1;
+}
+.icon-envelope {
+  height: 24px;
+  width: 26.4px;
+  min-height: 24px;
+}
+.message {
+  font-weight: 600;
+}
+.politics-frame,
+.trending-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.politics-frame {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.trending-frame {
+  width: 162px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.ionpeople-outline-icon {
+  height: 42px;
+  width: 42px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.community {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.vector-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 29px;
+}
+.vector-vector-vector-vector-fr {
+  height: 36px;
+  width: 27px;
+  position: relative;
+  z-index: 1;
+}
+.profile {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.group-frame1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs);
+}
+.post-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.community-frame,
+.more-frame1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.more-frame1 {
+  width: 141px;
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  box-sizing: border-box;
+}
+.community-frame {
+  flex-direction: column;
+  padding: 0 0 var(--padding-3xs);
+  gap: var(--gap-6xl);
+}
+.about-us,
+.mdiabout-icon {
+  position: relative;
+  z-index: 1;
+}
+.mdiabout-icon {
+  height: 32px;
+  width: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.about-us {
+  font-weight: 600;
+}
+.add-blog-frame,
+.tablerdots-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.add-blog-frame {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.tablerdots-frame {
+  width: 167px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs) var(--padding-8xs);
+  box-sizing: border-box;
+}
+.mingcutemore-3-line-icon {
+  height: 33px;
+  width: 33px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.more {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.cricket-posts-frame {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.group-frame,
+.search-frame,
+.what-is-todays-business-tip {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.what-is-todays-business-tip {
+  width: 126px;
+  flex-direction: row;
+  padding: 0 var(--padding-6xs);
+  box-sizing: border-box;
+}
+.group-frame,
+.search-frame {
+  flex-direction: column;
+  gap: 31px;
+}
+.search-frame {
+  width: 178px;
+  align-items: flex-end;
+  gap: 28px;
+}
+.home-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+.screenshot-2024-02-17-190937-r-parent {
+  width: 262px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-20xl);
+}
+.frame-header-child {
+  height: 65px;
+  width: 292px;
+  position: relative;
+  border-radius: var(--br-13xl-5);
+  background-color: var(--color-cornflowerblue-300);
+  display: none;
+}
+.post {
+  height: 29px;
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  z-index: 2;
+}
+.frame-header {
+  flex: 1;
+  border-radius: var(--br-13xl-5);
+  background-color: var(--color-cornflowerblue-300);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-lg) var(--padding-6xl) var(--padding-lg)
+    var(--padding-xl);
+  box-sizing: border-box;
+  min-width: 53px;
+  z-index: 1;
+}
+.tablerdots-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.bigger-updates-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.image-1-icon {
+  height: 55px;
+  width: 55px;
+  position: relative;
+  object-fit: contain;
+  z-index: 1;
+}
+.full-name,
+.username {
+  position: relative;
+  font-weight: 600;
+  z-index: 1;
+}
+.username {
+  z-index: 2;
+}
+.rectangle-screenshot {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.full-name-container,
+.tip-of-the-day {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.full-name-container {
+  align-items: center;
+  gap: 15px;
+}
+.tip-of-the-day {
+  align-items: flex-start;
+  padding: 0 var(--padding-5xs);
+  font-size: var(--font-size-lgi);
+  color: var(--color-black);
+}
+.frame-trendingin-india-frame-s,
+.indiatolaunchitsfirst,
+.main-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.indiatolaunchitsfirst {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-27xl);
+}
+.frame-trendingin-india-frame-s,
+.main-frame {
+  box-sizing: border-box;
+}
+.frame-trendingin-india-frame-s {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-mini);
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.main-frame {
+  width: 378px;
+  background-color: var(--color-azure);
+  flex-direction: column;
+  padding: var(--padding-32xl) var(--padding-sm) var(--padding-25xl) 28px;
+  gap: var(--gap-202xl);
+}
+.following,
+.for-you {
+  height: 33px;
+  position: relative;
+  display: inline-block;
+}
+.vector-icon {
+  height: 24px;
+  width: 19.8px;
+  position: relative;
+}
+.following-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-117xl);
+  color: #8e8e8e;
+}
+.for-you-parent,
+.k-posts {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.for-you-parent {
+  width: 698px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 0 0 0 var(--padding-xl);
+  gap: var(--gap-xl);
+}
+.k-posts {
+  height: 1px;
+  flex: 1;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-100);
+}
+.frame-container,
+.search-bar {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.search-bar {
+  height: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-4xs) 0 0;
+  box-sizing: border-box;
+}
+.frame-container {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-base);
+}
+.image-2-icon {
+  height: 55px;
+  width: 55px;
+  position: relative;
+  object-fit: contain;
+}
+.what-is-todays {
+  height: 33px;
+  position: relative;
+  display: inline-block;
+}
+.add-blog-button,
+.search-icon {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.add-blog-button {
+  align-items: center;
+  gap: 24px;
+}
+.search-icon {
+  align-items: flex-start;
+  padding: 0 var(--padding-5xl);
+  box-sizing: border-box;
+}
+.group-frame-child {
+  width: 19.4px;
+  height: 23.5px;
+  position: relative;
+}
+.group-frame2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-10xs);
+}
+.add-blog-tab,
+.add-blog-tab1 {
+  width: 21.6px;
+  position: relative;
+}
+.add-blog-tab {
+  margin: 0;
+  height: 26.2px;
+}
+.add-blog-tab1 {
+  height: 21.8px;
+}
+.add-blog-tab2,
+.add-blog-tab3 {
+  position: relative;
+  min-height: 27px;
+}
+.add-blog-tab2 {
+  height: 27.3px;
+  width: 22.5px;
+}
+.add-blog-tab3 {
+  align-self: stretch;
+  width: 16.2px;
+  max-height: 100%;
+}
+.b-j-p-kposts {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs) 0 0;
+  gap: 27px;
+}
+.trending-in-india-tab-child {
+  height: 56px;
+  width: 136px;
+  position: relative;
+  border-radius: var(--br-13xl-5);
+  background-color: var(--color-steelblue-100);
+  display: none;
+}
+.post1 {
+  height: 29px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: #bebaba;
+  text-align: left;
+  display: inline-block;
+  z-index: 1;
+}
+.trending-in-india-tab {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-xs) var(--padding-25xl) var(--padding-mini)
+    var(--padding-20xl);
+  background-color: var(--color-steelblue-100);
+  border-radius: var(--br-13xl-5);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.trending-in-india-tab:hover {
+  background-color: #3b87b8;
+}
+.search-icon-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-7xs);
+}
+.shark-tank-kposts,
+.trending-india-politics {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.shark-tank-kposts {
+  flex: 1;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.trending-india-politics {
+  width: 749px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.shark-tank-tab {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+}
+.vector-line {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 10px;
+  max-width: 100%;
+}
+.trending-section {
+  align-self: stretch;
+  padding: 0 var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+  gap: 21px;
+  color: #8c8c8c;
+}
+.frame-group,
+.frame-wrapper,
+.trending-section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-group {
+  align-self: stretch;
+  gap: var(--gap-16xl);
+}
+.frame-wrapper {
+  flex: 1;
+  padding: var(--padding-32xl) 0 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
+.line-separator-child,
+.search-frame-child {
+  width: 478px;
+  height: 1117px;
+  position: relative;
+  background-color: var(--color-azure);
+  display: none;
+  max-width: 100%;
+}
+.search-frame-child {
+  height: 53px;
+  width: 435px;
+  border-radius: var(--br-24xl);
+  background-color: var(--color-gray-300);
+}
+.icon-search1,
+.search {
+  height: 24px;
+  width: 19.8px;
+  position: relative;
+  z-index: 2;
+}
+.search {
+  width: 59px;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-lgi);
+  background-color: transparent;
+  height: 23px;
+  color: #a4a4a4;
+  text-align: left;
+  display: inline-block;
+}
+.bigger-updates-text-child,
+.search-frame1 {
+  background-color: var(--color-gray-300);
+  max-width: 100%;
+}
+.search-frame1 {
+  align-self: stretch;
+  border-radius: var(--br-24xl);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-mini) var(--padding-12xl) 13px;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+}
+.bigger-updates-text-child {
+  width: 435px;
+  height: 182px;
+  position: relative;
+  border-radius: var(--br-mid);
+  display: none;
+}
+.add-a-blog,
+.add-a-blog1 {
+  position: relative;
+  z-index: 2;
+}
+.add-a-blog {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+}
+.add-a-blog1 {
+  align-self: stretch;
+  height: 40px;
+  font-size: 15px;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.add-blog-form-child {
+  height: 44px;
+  width: 97px;
+  position: relative;
+  border-radius: var(--br-3xl-5);
+  background-color: var(--color-cornflowerblue-300);
+  display: none;
+}
+.add {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: left;
+  z-index: 3;
+}
+.add-blog-form {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) 36px var(--padding-2xs) var(--padding-10xl);
+  background-color: var(--color-cornflowerblue-300);
+  border-radius: var(--br-3xl-5);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 2;
+}
+.add-blog-form:hover {
+  background-color: #36b5ff;
+}
+.bigger-updates-text,
+.rectangle-container-child {
+  background-color: var(--color-gray-300);
+  max-width: 100%;
+}
+.bigger-updates-text {
+  align-self: stretch;
+  border-radius: var(--br-mid);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mid) var(--padding-xl) var(--padding-lg);
+  box-sizing: border-box;
+  gap: var(--gap-smi);
+  z-index: 1;
+}
+.rectangle-container-child {
+  width: 437px;
+  height: 666px;
+  position: relative;
+  border-radius: var(--br-3xl);
+  display: none;
+}
+.whats-happening {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 3;
+}
+.tablerdots-icon2 {
+  top: 133px;
+}
+.tablerdots-icon2,
+.tablerdots-icon3,
+.tablerdots-icon4,
+.tablerdots-icon5 {
+  height: 24px;
+  width: 24px;
+  position: absolute;
+  margin: 0 !important;
+  right: -4px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.tablerdots-icon3 {
+  top: 239px;
+}
+.tablerdots-icon4,
+.tablerdots-icon5 {
+  bottom: 142px;
+}
+.tablerdots-icon5 {
+  bottom: 41px;
+}
+.india-to-launch {
+  height: 33px;
+  position: relative;
+  display: inline-block;
+  z-index: 4;
+}
+.bigger-updates {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkgray-100);
+  z-index: 3;
+}
+.sports-cricket-trends {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 40px;
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
+.shark-tank,
+.trending-in-india {
+  position: relative;
+  z-index: 3;
+}
+.shark-tank {
+  height: 33px;
+  display: inline-block;
+  z-index: 4;
+}
+.k-posts1 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkgray-100);
+  z-index: 3;
+}
+.shark-tank-parent,
+.trending-in-india-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.shark-tank-parent {
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
+.trending-in-india-parent {
+  gap: var(--gap-9xs);
+}
+.sports-trending {
+  z-index: 3;
+}
+.cricket,
+.posts,
+.sports-trending {
+  position: relative;
+}
+.cricket {
+  height: 33px;
+  display: inline-block;
+  z-index: 4;
+}
+.posts {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkgray-100);
+  z-index: 3;
+  margin-top: -4px;
+}
+.frame-tablerdots,
+.sportstrending {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-tablerdots {
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
+.sportstrending {
+  gap: var(--gap-9xs);
+}
+.politics-trending {
+  position: relative;
+  z-index: 3;
+}
+.bjp,
+.k-posts2 {
+  position: relative;
+}
+.bjp {
+  height: 33px;
+  display: inline-block;
+  z-index: 4;
+}
+.k-posts2 {
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkgray-100);
+  z-index: 3;
+  margin-top: -1px;
+}
+.bjp-parent,
+.india-updates {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.bjp-parent {
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
+.india-updates {
+  gap: var(--gap-8xs);
+}
+.celebrity-trending,
+.sydney-sweeny {
+  position: relative;
+  z-index: 3;
+}
+.sydney-sweeny {
+  height: 33px;
+  display: inline-block;
+  z-index: 4;
+}
+.k-posts3 {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+  color: var(--color-darkgray-100);
+  z-index: 3;
+  margin-top: -2px;
+}
+.rectangle,
+.shark-tank-b-j-p-kposts,
+.sydney-sweeny-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sydney-sweeny-profile {
+  font-size: var(--font-size-4xl);
+  color: var(--color-white);
+  font-family: var(--font-istok-web);
+}
+.rectangle,
+.shark-tank-b-j-p-kposts {
+  gap: var(--gap-9xs);
+}
+.shark-tank-b-j-p-kposts {
+  gap: var(--gap-13xl);
+}
+.vectorvectorvectorvector {
+  border: 0;
+  outline: 0;
+  background-color: #e93535;
+  height: 88px;
+  width: 96px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  border-radius: var(--br-sm);
+  z-index: 3;
+}
+.add-blog-button1,
+.trending-india-politics1 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.trending-india-politics1 {
+  align-items: flex-end;
+  padding: var(--padding-2xs) 0 0;
+  box-sizing: border-box;
+}
+.add-blog-button1 {
+  align-items: flex-start;
+}
+.rectangle-container,
+.search-icon1 {
+  align-self: stretch;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.search-icon1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-6xs);
+  max-width: 100%;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-100);
+}
+.rectangle-container {
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gray-300);
+  padding: var(--padding-6xl) var(--padding-mid) 91px 22px;
+  gap: 3px;
+  z-index: 2;
+}
+.create-blog-button,
+.line-separator,
+.rectangle-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.create-blog-button {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-sm);
+}
+.line-separator {
+  width: 478px;
+  background-color: var(--color-azure);
+  align-items: center;
+  padding: var(--padding-27xl) var(--padding-5xl) var(--padding-8xl)
+    var(--padding-mid);
+  box-sizing: border-box;
+  gap: var(--gap-110xl);
+  min-width: 420px;
+}
+.desktop-1,
+.frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-family: var(--font-inter);
+}
+.frame-parent {
+  flex: 1;
+  gap: var(--gap-6xl);
+  min-width: 841px;
+  max-width: 100%;
+  flex-shrink: 0;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  overflow: hidden;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: var(--gap-37xl);
+  letter-spacing: normal;
+  font-size: var(--font-size-lgi);
+  color: var(--color-black);
+}
+@media screen and (max-width: 1350px) {
+  .desktop-1 {
+    flex-wrap: wrap;
+    padding-top: var(--padding-12xs);
+    padding-right: var(--padding-12xs);
+    padding-bottom: var(--padding-12xs);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .main-frame {
+    padding-top: var(--padding-14xl);
+    padding-bottom: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .line-separator {
+    flex: 1;
+    padding-top: 30px;
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .frame-parent {
+    flex-wrap: wrap;
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 800px) {
+  .frame-wrapper {
+    min-width: 100%;
+  }
+  .add-a-blog,
+  .whats-happening {
+    font-size: var(--font-size-5xl);
+  }
+  .rectangle-container {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-40xl);
+    box-sizing: border-box;
+  }
+  .line-separator {
+    gap: var(--gap-110xl);
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .screenshot-2024-02-17-190937-r-parent {
+    gap: var(--gap-20xl);
+  }
+  .post {
+    font-size: var(--font-size-lgi);
+  }
+  .bigger-updates-frame {
+    flex-wrap: wrap;
+  }
+  .indiatolaunchitsfirst {
+    gap: var(--gap-27xl);
+  }
+  .main-frame {
+    gap: var(--gap-202xl);
+    padding-top: 21px;
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .following,
+  .for-you {
+    font-size: var(--font-size-lg);
+  }
+  .following-parent {
+    gap: var(--gap-117xl);
+  }
+  .for-you-parent {
+    flex-wrap: wrap;
+  }
+  .what-is-todays {
+    font-size: var(--font-size-lg);
+  }
+  .add-blog-button {
+    flex-wrap: wrap;
+  }
+  .post1 {
+    font-size: var(--font-size-lgi);
+  }
+  .shark-tank-kposts {
+    flex-wrap: wrap;
+  }
+  .frame-group {
+    gap: var(--gap-16xl);
+  }
+  .add-a-blog,
+  .bjp,
+  .cricket,
+  .india-to-launch,
+  .shark-tank,
+  .sydney-sweeny,
+  .whats-happening {
+    font-size: var(--font-size-lg);
+  }
+  .shark-tank-b-j-p-kposts {
+    gap: var(--gap-13xl);
+  }
+  .line-separator {
+    padding-top: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .desktop-1 {
+    gap: var(--gap-37xl);
+  }
+}
+.what-is-todays{
+  width: 600px;
+  height: 50px;
+  background-color: black;
+  color: white;
+  font-weight: 700;
+  border: 1px solid white;
+  border-radius: 10px;
+}
+.group-frame-child{
+  height: 25px;
+  width: 25px;
+  background-image: url(/publichome/group-1.svg);
+  background-size: cover;
+}
+a{
+  text-decoration: none;
+  color: black;
+}

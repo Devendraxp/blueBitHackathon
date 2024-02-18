@@ -895,3 +895,7 @@ a{
   text-decoration: none;
   color: white;
 }
+body{
+  background-image: url(./mainback.jpeg);
+  background-size: cover;
+}
